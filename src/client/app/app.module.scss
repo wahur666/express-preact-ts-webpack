@@ -1,0 +1,14 @@
+$preact-color: #673ab8;
+
+.logo {
+    height: 10rem;
+}
+
+.frame {
+    display: grid;
+    place-content: center;
+    background-color: $preact-color;
+    height: 100%;
+    color: white;
+}
+
